@@ -55,6 +55,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
+              "baseHref": "/art-gallery/dist/",
               "outputHashing": "all"
             },
             "development": {
