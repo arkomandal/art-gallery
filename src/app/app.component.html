@@ -1,0 +1,22 @@
+<h1>Gallery of Souls</h1>
+<div class="grid-container">
+  <div *ngFor="let item of gallery; let i = index" [attr.data-index]="i">
+    <img [src]='item.art' alt='' (click)="preview(i)">
+    <p>"{{item.artist}}."</p>
+  </div>
+</div>
+
+<p-galleria [value]="images" [(visible)]="displayBasic" [activeIndex]="activeIndex"
+  [containerStyle]="{'max-width': '800px'}" [circular]="true" [fullScreen]="true"
+  [showItemNavigators]="true" [showThumbnailNavigators]="false" [baseZIndex]="100000">
+  <ng-template pTemplate="item" let-item>
+    <img [src]="item.previewImageSrc" style="width: 90%; display: block;" />
+  </ng-template>
+  <ng-template pTemplate="caption" let-item>
+    <h4 style="margin-bottom: .5rem; color: #ffffff;"><div [innerHTML]="item.title"></div> ~ {{item.author}}</h4>
+    <p *ngIf="item.shop != ''">Book: <a href="{{item.shop}}">{{item.alt}}</a></p>
+    <p>Art: {{item.artist}}</p>
+</ng-template>
+</p-galleria>
+
+<router-outlet></router-outlet>

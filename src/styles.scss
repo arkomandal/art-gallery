@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Passions+Conflict&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(assets/images/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg);
+    background-color: #cccccc;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.p-galleria-caption {
+    width: 90%!important;
+    left: 5%!important;
+}
+
+.p-galleria-mask .p-galleria-item-nav {
+    z-index: 99999;
+}
+
+.p-galleria-thumbnail-wrapper {
+    display: none!important;
+}
+
+
