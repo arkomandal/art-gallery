@@ -1,5 +1,50 @@
 [
     {
+        "art": "assets/images/2022-10-16-005.jpg",
+        "artist": "Photograph by El Gran Flaco",
+        "quote": "You can love someone and still choose to say goodbye to them. You can miss a person every day, and still be glad that they are no longer in your life.",
+        "book": "Educated",
+        "author": "Tara Westover",
+        "shop": "https://amzn.to/3SmrSNP",
+        "date": "2022-10-16"
+    },
+    {
+        "art": "assets/images/2022-10-16-004.jpg",
+        "artist": "Photograph by Unknown",
+        "quote": "You meet saints everywhere. They can be anywhere. They are people behaving decently in an indecent society.",
+        "book": "A Man Without a Country",
+        "author": "Kurt Vonnegut",
+        "shop": "https://amzn.to/3e4dQBG",
+        "date": "2022-10-16"
+    },
+    {
+        "art": "assets/images/2022-10-16-003.jpg",
+        "artist": "Painting by Grace Carol Bomer",
+        "quote": "I like to see people reunited, I like to see people run to each other, I like the kissing and the crying, I like the impatience, the stories that the mouth can't tell fast enough, the ears that aren't big enough, the eyes that can't take in all of the change, I like the hugging, the bringing together, the end of missing someone.",
+        "book": "Extremely Loud & Incredibly Close",
+        "author": "Jonathan Safran Foer",
+        "shop": "https://amzn.to/3RxVZRf",
+        "date": "2022-10-16"
+    },
+    {
+        "art": "assets/images/2022-10-16-002.jpg",
+        "artist": "Painting by Aldo Balding",
+        "quote": "No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same.",
+        "book": "Man's Search for Meaning",
+        "author": "Viktor Emil Frankl",
+        "shop": "https://amzn.to/3SUfftc",
+        "date": "2022-10-16"
+    },
+    {
+        "art": "assets/images/2022-10-16-001.jpg",
+        "artist": "Painting by Luther Emerson Van Gorder",
+        "quote": "The only trick of friendship is to find people who are better than you are—not smarter, not cooler, but kinder, and more generous, and more forgiving—and then to appreciate them for what they can teach you, and to try to listen to them when they tell you something about yourself, no matter how bad—or good—it might be, and to trust them, which is the hardest thing of all. But the best, as well.",
+        "book": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "shop": "https://amzn.to/3CllTlJ",
+        "date": "2022-10-16"
+    },
+    {
         "art": "assets/images/2022-10-06-001.jpg",
         "artist": "Painting by Emile Friant",
         "quote": "Thus, the most complete definition of a commitment is this: falling in love with something and then building a structure of behavior around it for those moments when love falters.",
