@@ -151,5 +151,14 @@
         "author": "Oscar Wilde",
         "shop": "https://amzn.to/3CdnD09",
         "date": "2022-10-15"
+    },
+    {
+        "art": "assets/images/2022-11-26-001.jpg",
+        "artist": "Painting by Andrew Wyeth",
+        "quote": "A good marriage is one in which each partner appoints the other to be the guardian of his solitude, and thus they show each other the greatest possible trust. A merging of two people is an impossibility, and where it seems to exist, it is a hemming-in, a mutual consent that robs one party or both parties of their fullest freedom and development. But once the realization is accepted that even between the closest people infinite distances exist, a marvelous living side-by-side can grow up for them, if they succeed in loving the expanse between them, which gives them the possibility of always seeing each other as a whole and before an immense sky.",
+        "book": "Letters to a Young Poet",
+        "author": "Rainer Maria Rilke",
+        "shop": "https://amzn.to/3hQYT7f",
+        "date": "2022-11-26"
     }
 ]
